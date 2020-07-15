@@ -1,5 +1,7 @@
 # nxmtp
 
+Recompiled version of nxmtp for firmwares past 9.0.0.
+
 A (not very good) MTP responder for the Switch.
 
 ## Compatibility (maybe)
